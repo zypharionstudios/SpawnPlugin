@@ -1,1 +1,5 @@
-
+name: SpawnPlugin
+version: 1.0
+main: de.deinname.spawnplugin.SpawnPlugin
+api-version: '1.21'
+author: DeinName
